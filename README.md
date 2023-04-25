@@ -1,1 +1,2 @@
 # Tutor-Uber-App
+Initial Start to Tutor-Uber Application. Designed an application like uber, Tutor-Uber provides students with list of tutors that can provide help with their homework. Created a UI-sign up page using HTML, CSS, JavaScript. A login Page using HTML, CSS, JavaScript, and Database using Firebase Real-Time Database. Created a Dashboard for both students and Tutors. Students would use searching algorithm to connect to Tutor able to provide help. Created use case diagrams, detailed sequence diagrams for design.
